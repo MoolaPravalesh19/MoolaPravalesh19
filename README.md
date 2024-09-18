@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm MOOLA PRAVALESH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moolapravalesh19&label=Profile%20views&color=0e75b6&style=flat" alt="moolapravalesh19" /> </p>
+<p align="left"> [![](https://visitcount.itsvg.in/api?id=MoolaPravalesh19&icon=0&color=0)](https://visitcount.itsvg.in) </p>
 
 - 🔭 I’m currently working on **Food Delivery Website**
 
